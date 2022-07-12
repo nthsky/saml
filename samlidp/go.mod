@@ -1,4 +1,4 @@
-module github.com/crewjam/saml/samlidp
+module github.com/nthsky/saml/samlidp
 
 go 1.16
 
