@@ -2,6 +2,8 @@ module github.com/nthsky/saml/samlidp
 
 go 1.16
 
+replace github.com/crewjam/saml v0.4.8 => github.com/nthsky/saml v0.4.9
+
 require (
 	github.com/crewjam/saml v0.4.8
 	github.com/golang-jwt/jwt/v4 v4.4.2
